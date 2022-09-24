@@ -3062,6 +3062,19 @@
     },
     {
       "chainId": 101,
+      "address": "DhHC6H3tvAjP1PCHxtb5jNvkrJv6usGtEhKVrBDprvtv",
+      "symbol": "APXPW",
+      "name": "Airplex Private WL",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DhHC6H3tvAjP1PCHxtb5jNvkrJv6usGtEhKVrBDprvtv/logo.jpg",
+      "tags": [
+        "Whitelist",
+        "APX",
+        "Private"
+      ]
+    },
+    {
+      "chainId": 101,
       "address": "CS4tNS523VCLiTsGnYEAd6GqfrZNLtA14C98DC6gE47g",
       "symbol": "SPY",
       "name": "SPDR S&P 500 ETF",
